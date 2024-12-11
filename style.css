@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/4190943.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+header{
+    text-align: center;
+    color: red;
+    font-size: 60px;
+    background-color: rgba(49, 27, 3, 0.7)
+}
+
+.lewa{
+    position: fixed;
+    height: 60%;
+    background-color: rgba(0, 0, 0, 0.7);
+    left: 45px;
+    bottom: 30%;
+    width: 40%;
+
+}
+
+ul{
+    color: blueviolet;
+    font-size: 25px;
+}
